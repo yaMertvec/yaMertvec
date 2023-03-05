@@ -1,7 +1,16 @@
 ## Всем привет 👋
 Junior frontend-developer с ключевыми навыкам , позволяющими выполнить любую задачу в рамках
 компетенции.
-#### Обучаюсь в Яндекс Практикуме на веб разбработку
+#### В настоящее время обучаюсь в Яндекс Практикуме на веб разбработку и активно ищу работу в IT сфере
+
+
+### Мой стек
+* HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20">
+* CSS   https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg
+* БЭМ и Nested
+* JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20">
+* GIT <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="20">
+* React( в процессе ) <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20">
 <!--
 **yaMertvec/yaMertvec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
