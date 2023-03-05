@@ -6,7 +6,7 @@ Junior frontend-developer с ключевыми навыкам , позволя�
 
 ### Мой стек
 * HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20">
-* CSS   https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg
+* CSS   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20">
 * БЭМ и Nested
 * JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20">
 * GIT <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="20">
